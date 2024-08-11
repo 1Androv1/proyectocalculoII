@@ -1,0 +1,242 @@
+{
+    "1": {
+        "descripcion": "Encuentra la derivada de la función de costo C(x) = 2x^2 + 3x.",
+        "solucion": "4x + 3",
+        "beneficio": 10,
+        "penalizacion": 5
+    },
+    "2": {
+        "descripcion": "Calcula la derivada parcial de la función de beneficio B(x, y) = 4x^2 + 2xy respecto a x.",
+        "solucion": "8x + 2y",
+        "beneficio": 15,
+        "penalizacion": 7
+    },
+    "3": {
+        "descripcion": "Encuentra el máximo de la función de beneficio B(x) = -x^2 + 4x.",
+        "solucion": "2",
+        "beneficio": 20,
+        "penalizacion": 10
+    },
+    "4": {
+        "descripcion": "Determina si la función de costo C(x) = x^3 - 3x^2 + 2 tiene un máximo o mínimo en x = 1.",
+        "solucion": "Mínimo",
+        "beneficio": 25,
+        "penalizacion": 12
+    },
+    "5": {
+        "descripcion": "Encuentra la derivada parcial de la función de costo C(x, y) = 3x^2 + 2xy + y^2 respecto a x.",
+        "solucion": "6x + 2y",
+        "beneficio": 30,
+        "penalizacion": 15
+    },
+    "6": {
+        "descripcion": "Calcula la derivada de orden superior de la función de costo C(x) = 4x^3 - 3x^2 + 2x.",
+        "solucion": "24x - 6",
+        "beneficio": 35,
+        "penalizacion": 18
+    },
+    "7": {
+        "descripcion": "Encuentra el punto crítico de la función de beneficio B(x) = -2x^2 + 8x - 5.",
+        "solucion": "2",
+        "beneficio": 40,
+        "penalizacion": 20
+    },
+    "8": {
+        "descripcion": "Determina el tipo de punto crítico para la función de costo C(x) = x^4 - 4x^3 + 6x^2 en x = 1.",
+        "solucion": "Mínimo",
+        "beneficio": 45,
+        "penalizacion": 22
+    },
+    "9": {
+        "descripcion": "Encuentra el máximo de la función de beneficio B(x, y) = -x^2 - y^2 + 4x + 6y.",
+        "solucion": "(2, 3)",
+        "beneficio": 50,
+        "penalizacion": 25
+    },
+    "10": {
+        "descripcion": "Calcula la derivada parcial de la función de beneficio B(x, y) = 3x^2 + 2xy + y^2 respecto a y.",
+        "solucion": "2x + 2y",
+        "beneficio": 55,
+        "penalizacion": 28
+    },
+    "11": {
+        "descripcion": "Determina el punto de inflexión de la función de costo C(x) = x^4 - 4x^3 + 6x^2.",
+        "solucion": "1",
+        "beneficio": 60,
+        "penalizacion": 30
+    },
+    "12": {
+        "descripcion": "Calcula la derivada de orden superior de la función de costo C(x) = 5x^3 - 4x^2 + x.",
+        "solucion": "30x - 8",
+        "beneficio": 65,
+        "penalizacion": 33
+    },
+    "13": {
+        "descripcion": "Encuentra el máximo local de la función de beneficio B(x, y) = -x^2 - y^2 + 5x + 7y.",
+        "solucion": "(2.5, 3.5)",
+        "beneficio": 70,
+        "penalizacion": 35
+    },
+    "14": {
+        "descripcion": "Determina si la función de costo C(x) = x^5 - 5x^3 + 4x tiene un punto de inflexión en x = 0.",
+        "solucion": "Sí",
+        "beneficio": 75,
+        "penalizacion": 38
+    },
+    "15": {
+        "descripcion": "Calcula la derivada parcial de la función de beneficio B(x, y) = 4x^2 + 3xy + y^2 respecto a x.",
+        "solucion": "8x + 3y",
+        "beneficio": 80,
+        "penalizacion": 40
+    },
+    "16": {
+        "descripcion": "Encuentra el máximo local de la función de costo C(x, y) = x^4 + y^4 - 4x^2 - 4y^2 + 10.",
+        "solucion": "(1, 1)",
+        "beneficio": 85,
+        "penalizacion": 43
+    },
+    "17": {
+        "descripcion": "Determina el tipo de punto crítico para la función de beneficio B(x) = x^3 - 6x^2 + 9x - 1 en x = 2.",
+        "solucion": "Máximo",
+        "beneficio": 90,
+        "penalizacion": 45
+    },
+    "18": {
+        "descripcion": "Calcula la derivada de orden superior de la función de costo C(x, y) = 2x^3 + 3xy^2 - y^3 respecto a y.",
+        "solucion": "8xy - 4y^3",
+        "beneficio": 95,
+        "penalizacion": 48
+    },
+    "19": {
+        "descripcion": "Encuentra el máximo de la función de beneficio B(x, y) = -2x^2 - 3y^2 + 6x + 9y.",
+        "solucion": "(1.5, 1.5)",
+        "beneficio": 100,
+        "penalizacion": 50
+    },
+    "20": {
+        "descripcion": "Determina el punto de inflexión de la función de costo C(x) = x^6 - 9x^4 + 12x^2.",
+        "solucion": "±√3",
+        "beneficio": 110,
+        "penalizacion": 55
+    },
+    "21": {
+        "descripcion": "Calcula la derivada parcial de la función de beneficio B(x, y) = x^2y + 3xy^2 + y^3 respecto a x.",
+        "solucion": "2xy + 3y^2",
+        "beneficio": 120,
+        "penalizacion": 60
+    },
+    "22": {
+        "descripcion": "Encuentra el máximo local de la función de costo C(x, y) = x^3y - 2xy^2 + y^3.",
+        "solucion": "(2, -1)",
+        "beneficio": 130,
+        "penalizacion": 65
+    },
+    "23": {
+        "descripcion": "Determina el tipo de punto crítico para la función de beneficio B(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 en x = 2.",
+        "solucion": "Mínimo",
+        "beneficio": 140,
+        "penalizacion": 70
+    },
+    "24": {
+        "descripcion": "Calcula la derivada de orden superior de la función de costo C(x, y) = 3x^4 + 4xy^3 - y^4 respecto a y.",
+        "solucion": "12x - 4y^3",
+        "beneficio": 150,
+        "penalizacion": 75
+    },
+    "25": {
+        "descripcion": "Encuentra el máximo de la función de beneficio B(x, y) = -x^2 - y^2 + 8x + 10y.",
+        "solucion": "(4, 5)",
+        "beneficio": 160,
+        "penalizacion": 80
+    },
+    "26": {
+        "descripcion": "Determina el punto de inflexión de la función de costo C(x) = x^5 - 5x^3 + 4x en x = 1.",
+        "solucion": "No",
+        "beneficio": 170,
+        "penalizacion": 85
+    },
+    "27": {
+        "descripcion": "Calcula la derivada parcial de la función de beneficio B(x, y) = x^3 + y^3 - 3x^2 - 3y^2 + 4 respecto a x.",
+        "solucion": "3x^2 - 6x",
+        "beneficio": 180,
+        "penalizacion": 90
+    },
+    "28": {
+        "descripcion": "Encuentra el máximo local de la función de costo C(x, y) = x^3 + y^3 - 6xy.",
+        "solucion": "(√3, -√3)",
+        "beneficio": 190,
+        "penalizacion": 95
+    },
+    "29": {
+        "descripcion": "Determina el tipo de punto crítico para la función de beneficio B(x) = x^3 - 3x^2 + 3x - 1 en x = 1.",
+        "solucion": "Mínimo",
+        "beneficio": 200,
+        "penalizacion": 100
+    },
+    "30": {
+        "descripcion": "Calcula la derivada de orden superior de la función de costo C(x, y) = 2x^4 - 4xy^3 + y^4 respecto a y.",
+        "solucion": "16xy - 8y^2",
+        "beneficio": 210,
+        "penalizacion": 105
+    },
+    "31": {
+        "descripcion": "Encuentra el máximo de la función de beneficio B(x, y) = -3x^2 - 2y^2 + 7x + 5y.",
+        "solucion": "(7/6, 5/4)",
+        "beneficio": 220,
+        "penalizacion": 110
+    },
+    "32": {
+        "descripcion": "Determina el punto de inflexión de la función de costo C(x) = x^6 - 5x^4 + 4x^2 en x = 0.",
+        "solucion": "Sí",
+        "beneficio": 230,
+        "penalizacion": 115
+    },
+    "33": {
+        "descripcion": "Calcula la derivada parcial de la función de beneficio B(x, y) = 2x^3 + y^3 - 3xy^2 respecto a x.",
+        "solucion": "6x^2 - 3y^2",
+        "beneficio": 240,
+        "penalizacion": 120
+    },
+    "34": {
+        "descripcion": "Encuentra el máximo local de la función de costo C(x, y) = x^3y + y^3 - 2x^2y.",
+        "solucion": "(1, -1)",
+        "beneficio": 250,
+        "penalizacion": 125
+    },
+    "35": {
+        "descripcion": "Determina el tipo de punto crítico para la función de beneficio B(x) = x^5 - 5x^3 + 4x en x = 0.",
+        "solucion": "Mínimo",
+        "beneficio": 260,
+        "penalizacion": 130
+    },
+    "36": {
+        "descripcion": "Calcula la derivada de orden superior de la función de costo C(x, y) = 4x^3 + 5xy^2 - y^4 respecto a y.",
+        "solucion": "10xy - 4y^3",
+        "beneficio": 270,
+        "penalizacion": 135
+    },
+    "37": {
+        "descripcion": "Encuentra el máximo de la función de beneficio B(x, y) = -2x^2 - 4y^2 + 9x + 12y.",
+        "solucion": "(9/4, 6/4)",
+        "beneficio": 280,
+        "penalizacion": 140
+    },
+    "38": {
+        "descripcion": "Determina el punto de inflexión de la función de costo C(x) = x^7 - 7x^5 + 12x^3 en x = 1.",
+        "solucion": "No",
+        "beneficio": 290,
+        "penalizacion": 145
+    },
+    "39": {
+        "descripcion": "Calcula la derivada parcial de la función de beneficio B(x, y) = x^2y + 4xy^2 + y^3 respecto a x.",
+        "solucion": "2xy + 4y^2",
+        "beneficio": 300,
+        "penalizacion": 150
+    },
+    "40": {
+        "descripcion": "Encuentra el máximo local de la función de costo C(x, y) = x^3y - 3xy^2 + y^3.",
+        "solucion": "(3, -3)",
+        "beneficio": 310,
+        "penalizacion": 155
+    }
+}

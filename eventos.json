@@ -1,0 +1,67 @@
+{
+    "2": {
+        "descripcion": "Una recesión golpea el mercado.",
+        "cambio_recursos": -10,
+        "cambio_costos": 5
+    },
+    "5": {
+        "descripcion": "Un nuevo competidor entra al mercado.",
+        "cambio_recursos": -5,
+        "cambio_costos": 3
+    },
+    "8": {
+        "descripcion": "La demanda de productos tecnológicos ha aumentado.",
+        "cambio_recursos": 15,
+        "cambio_costos": -3
+    },
+    "11": {
+        "descripcion": "Un escándalo financiero sacude la industria.",
+        "cambio_recursos": -12,
+        "cambio_costos": 6
+    },
+    "14": {
+        "descripcion": "Recibes una inversión significativa de un inversor ángel.",
+        "cambio_recursos": 20,
+        "cambio_costos": -5
+    },
+    "17": {
+        "descripcion": "Un terremoto afecta una de tus fábricas.",
+        "cambio_recursos": -15,
+        "cambio_costos": 8
+    },
+    "20": {
+        "descripcion": "Se descubre una nueva tecnología que reduce los costos de producción.",
+        "cambio_recursos": 25,
+        "cambio_costos": -10
+    },
+    "23": {
+        "descripcion": "Tus empleados están en huelga debido a las malas condiciones laborales.",
+        "cambio_recursos": -20,
+        "cambio_costos": 10
+    },
+    "26": {
+        "descripcion": "Ganas un importante contrato gubernamental.",
+        "cambio_recursos": 30,
+        "cambio_costos": -15
+    },
+    "29": {
+        "descripcion": "Una pandemia global afecta la producción y demanda.",
+        "cambio_recursos": -25,
+        "cambio_costos": 12
+    },
+    "32": {
+        "descripcion": "La economía global se está recuperando rápidamente.",
+        "cambio_recursos": 35,
+        "cambio_costos": -20
+    },
+    "35": {
+        "descripcion": "Se descubre que uno de tus productos tiene un defecto grave.",
+        "cambio_recursos": -30,
+        "cambio_costos": 15
+    },
+    "38": {
+        "descripcion": "Un nuevo mercado emergente abre grandes oportunidades de expansión.",
+        "cambio_recursos": 40,
+        "cambio_costos": -25
+    }
+}
